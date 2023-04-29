@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "obsidian-daily-todo-with-progress",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Designed to support my personal todo list workflow. Work with a todo list for each day, and a supplementary hovering list for those that aren't as important and can be cherry picked from.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
